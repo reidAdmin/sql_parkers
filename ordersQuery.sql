@@ -1,0 +1,1 @@
+SELECT ordTransID, ordID, ordName, ordLastName, ordAddress, ordAddress2, ordCity, ordState, ordZip, ordPhone FROM orders 
